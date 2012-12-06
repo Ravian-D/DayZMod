@@ -19,7 +19,7 @@ FIX DUE : 2012
 			* [NEW]	Weapon - M40A3 (MilitaryS)
 			* [NEW] - Ability to flip ATV's.
 			* [NEW] - Zeds spawn while in vehicles.
-			* [NEW] - Zeds mow have the ability to damage vehicles. This is limited to glass only once glass is destoryed players within will be damage.
+			* [NEW] - Zeds now have the ability to damage vehicles. This is limited to glass only once glass is destoryed players within will be damage.
 			* [NEW] - Zeds now have the ability to pull you from open vehicles.
 			* [NEW] - In combat bot added if your in combat and logoff your player will be replaced with a bot that can still be looted and killed.
 			* [NEW] - New Load screens added to show timeleft for combat logging.
